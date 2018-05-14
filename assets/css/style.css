@@ -60,7 +60,8 @@ h2 {
 }
 
 #imageAbout {
-    
+    float: left;
+    padding-right: 20px;
 }
 
 .portImg {
@@ -69,13 +70,14 @@ h2 {
 }
 
 p {
-    /* float: left; */
+    line-height: 32px;
+    overflow: auto;
     color: #777;
+    clear: both;
 }
 
 #footer {
-    /* clear: both;
-    overflow: auto; */
+    
     background-color: #666;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
