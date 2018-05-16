@@ -39,6 +39,10 @@ a {
     right: 21.25%;
 }
 
+.nav {
+    border-right: #777 1px solid;
+}
+
 .content {
   width: 960px;
   background-color: #fff;
@@ -80,6 +84,7 @@ p {
 .portGroup {
     position: relative;
     color: white;
+    
 }
 
 #image1 {
@@ -153,7 +158,7 @@ p {
 
 }
 
-
+    
 #footer {
     
     background-color: #666;
@@ -163,4 +168,6 @@ p {
     border-top: 10px #4aaaa5 solid;
     text-align: center;
     margin-top: 100%;
+    /* position: fixed;
+    bottom: 0; */
 }
