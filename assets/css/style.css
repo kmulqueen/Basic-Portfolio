@@ -40,7 +40,7 @@ a {
 }
 
 .nav {
-    border-right: #777 1px solid;
+    border-right: #ccc 1px solid;
 }
 
 .content {
@@ -167,7 +167,8 @@ p {
     padding: 25px;
     border-top: 10px #4aaaa5 solid;
     text-align: center;
-    margin-top: 100%;
+    margin-top: 158px;
     /* position: fixed;
-    bottom: 0; */
+    bottom: 0;
+    width: 100%; */
 }
